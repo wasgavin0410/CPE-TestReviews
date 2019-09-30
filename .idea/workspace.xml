@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce370f61-f16e-4b8f-8938-9767c19c0b57" name="Default Changelist" comment="" />
+    <list default="true" id="ce370f61-f16e-4b8f-8938-9767c19c0b57" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CPE_Java/SP6_CashDistributing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CPE_Java/SP8_CompareStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CPE_Java/sp5_thirdGuyShallNotStay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +21,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1RWGJ90fAQN897JklU6R5pnAI8q" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -39,7 +50,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.sp4_determineWhoComesFirst">
+  <component name="RunManager" selected="Application.SP6_CashDistributing">
+    <configuration name="SP6_CashDistributing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CPE_Java.SP6_CashDistributing" />
+      <module name="CPE_Review" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CPE_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SP8_CompareStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CPE_Java.SP8_CompareStrings" />
+      <module name="CPE_Review" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CPE_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="sp3_decode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CPE_Java.sp3_decode" />
       <module name="CPE_Review" />
@@ -66,8 +103,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="sp5_thirdGuyShallNotStay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CPE_Java.sp5_thirdGuyShallNotStay" />
+      <module name="CPE_Review" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CPE_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SP6_CashDistributing" />
+        <item itemvalue="Application.SP8_CompareStrings" />
+        <item itemvalue="Application.sp5_thirdGuyShallNotStay" />
         <item itemvalue="Application.sp4_determineWhoComesFirst" />
         <item itemvalue="Application.sp3_decode" />
       </list>
@@ -85,5 +138,16 @@
       <updated>1569775363827</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
