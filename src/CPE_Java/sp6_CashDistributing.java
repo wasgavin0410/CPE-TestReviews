@@ -2,7 +2,7 @@ package CPE_Java;
 
 import java.util.Scanner;
 
-public class SP6_CashDistributing {
+public class sp6_CashDistributing {
     public static void main(String[] args){
         //cashes are in the amount of 1, 5, 10, 50, 100
         Scanner sc = new Scanner(System.in);

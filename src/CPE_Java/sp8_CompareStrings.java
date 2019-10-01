@@ -2,7 +2,7 @@ package CPE_Java;
 
 import java.util.Scanner;
 
-public class SP8_CompareStrings {
+public class sp8_CompareStrings {
         public static void main(String[] args){
             Scanner sc = new Scanner(System.in);
             String[] arr = new String[3];
