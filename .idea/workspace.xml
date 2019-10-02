@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce370f61-f16e-4b8f-8938-9767c19c0b57" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CPE_Java/sp19_decimalConvertedIntoBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CPE_Java/sp20_GCDandLCM.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/CPE_Java/sp21_CompareTheIncomers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CPE_Java/sp8_WhosTheSmallestOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CPE_Java/sp25_changeTheFirstCharIntoUpperCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeFrenzy/stack006_InorderToPostorder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CPE_Java/SP6_CashDistributing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CPE_Java/sp6_CashDistributing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CPE_Java/SP8_CompareStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CPE_Java/sp8_CompareStrings.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +30,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -56,7 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.sp20_GCDandLCM">
+  <component name="RunManager" selected="Application.sp25_changeTheFirstCharIntoUpperCase">
     <configuration name="sp19_decimalConvertedIntoBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CPE_Java.sp19_decimalConvertedIntoBinary" />
       <module name="CPE_Review" />
@@ -83,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sp6_CashDistributing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CPE_Java.sp6_CashDistributing" />
+    <configuration name="sp21_CompareTheIncomers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CPE_Java.sp21_CompareTheIncomers" />
       <module name="CPE_Review" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sp8_CompareStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CPE_Java.sp8_CompareStrings" />
+    <configuration name="sp25_changeTheFirstCharIntoUpperCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CPE_Java.sp25_changeTheFirstCharIntoUpperCase" />
       <module name="CPE_Review" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sp25_changeTheFirstCharIntoUpperCase" />
+        <item itemvalue="Application.sp21_CompareTheIncomers" />
         <item itemvalue="Application.sp20_GCDandLCM" />
         <item itemvalue="Application.sp19_decimalConvertedIntoBinary" />
         <item itemvalue="Application.sp8_WhosTheSmallestOne" />
-        <item itemvalue="Application.sp6_CashDistributing" />
-        <item itemvalue="Application.sp8_CompareStrings" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569873256660</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Upload sp8, sp19, and sp20">
+      <created>1569959508873</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1569959508874</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -168,6 +171,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Upload SP5, 6, 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upload SP5, 6, 8" />
+    <MESSAGE value="Upload sp8, sp19, and sp20" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload sp8, sp19, and sp20" />
   </component>
 </project>
