@@ -9,19 +9,16 @@ public class sp8_CompareStrings {
 
             for (int i=0;i<3;i++)   arr[i] = sc.next();
 
-            while(arr[0].compareTo(arr[1]) < 0){
-
-                String temp = arr[0];
-                arr[0] = arr[1];
-                arr[1] = temp;
-
-                while(arr[1].compareTo(arr[2]) < 0){
-                    temp = arr[1];
-                    arr[1] = arr[2];
-                    arr[2] = temp;
+            for (int p = 0;p < arr.length;p++){
+                for (int k=0;k < arr.length -p - 1;k++){
+                    if (arr[k].compareTo(arr[k+1]) > 0){
+                        String temp = arr[k];
+                        arr[k] = arr[k+1];
+                        arr[k+1] = temp;
+                    }
                 }
             }
 
-            for (int k=2;k>=0;k--)   System.out.println(arr[k]);
+            for (String s : arr)   System.out.println(s);
         }
 }

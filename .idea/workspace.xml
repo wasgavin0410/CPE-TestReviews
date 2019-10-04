@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce370f61-f16e-4b8f-8938-9767c19c0b57" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CPE_Java/sp21_CompareTheIncomers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CPE_Java/sp25_changeTheFirstCharIntoUpperCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CPE_Java/sp26_getTheShortestRange_OnTwoDemension.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CPE_Java/sp28_sumAllTheNumberInString.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/CodeFrenzy/stack006_InorderToPostorder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CPE_Java/sp4_determineWhoComesFirst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CPE_Java/sp4_determineWhoComesFirst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CPE_Java/sp8_CompareStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CPE_Java/sp8_CompareStrings.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,33 +54,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.sp25_changeTheFirstCharIntoUpperCase">
-    <configuration name="sp19_decimalConvertedIntoBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CPE_Java.sp19_decimalConvertedIntoBinary" />
-      <module name="CPE_Review" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CPE_Java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="sp20_GCDandLCM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CPE_Java.sp20_GCDandLCM" />
-      <module name="CPE_Review" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CPE_Java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.sp8_CompareStrings">
     <configuration name="sp21_CompareTheIncomers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CPE_Java.sp21_CompareTheIncomers" />
       <module name="CPE_Review" />
@@ -105,8 +81,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sp8_WhosTheSmallestOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CPE_Java.sp8_WhosTheSmallestOne" />
+    <configuration name="sp26_getTheShortestRange_OnTwoDemension" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CPE_Java.sp26_getTheShortestRange_OnTwoDemension" />
+      <module name="CPE_Review" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CPE_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sp28_sumAllTheNumberInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CPE_Java.sp28_sumAllTheNumberInString" />
+      <module name="CPE_Review" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CPE_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sp8_CompareStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CPE_Java.sp8_CompareStrings" />
       <module name="CPE_Review" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sp8_CompareStrings" />
+        <item itemvalue="Application.sp28_sumAllTheNumberInString" />
+        <item itemvalue="Application.sp26_getTheShortestRange_OnTwoDemension" />
         <item itemvalue="Application.sp25_changeTheFirstCharIntoUpperCase" />
         <item itemvalue="Application.sp21_CompareTheIncomers" />
-        <item itemvalue="Application.sp20_GCDandLCM" />
-        <item itemvalue="Application.sp19_decimalConvertedIntoBinary" />
-        <item itemvalue="Application.sp8_WhosTheSmallestOne" />
       </list>
     </recent_temporary>
   </component>
@@ -153,8 +155,18 @@
       <option name="project" value="LOCAL" />
       <updated>1569959508874</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Upload sp21, sp25">
+      <created>1570046822612</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1570046822612</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -172,6 +184,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Upload SP5, 6, 8" />
     <MESSAGE value="Upload sp8, sp19, and sp20" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upload sp8, sp19, and sp20" />
+    <MESSAGE value="Upload sp21, sp25" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload sp21, sp25" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CPE_Java/sp4_determineWhoComesFirst.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
